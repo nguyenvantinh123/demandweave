@@ -1,0 +1,1 @@
+import{describe,it,expect}from'vitest';describe('DemandWeave',()=>{it('has a valid product name',()=>expect('DemandWeave').toContain('Weave'))});

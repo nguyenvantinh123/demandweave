@@ -1,0 +1,3 @@
+{'signals': 1000, 'seconds': 0.029, 'signals_per_second': 34514.3}
+{'signals': 10000, 'seconds': 0.2868, 'signals_per_second': 34870.9}
+{'signals': 100000, 'seconds': 2.8686, 'signals_per_second': 34860.4}

@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 140
+exclude = ["apps/web/node_modules", "apps/web/dist"]
+
+[tool.ruff.lint]
+ignore = ["E401", "E501", "E701", "E702", "F401", "F403", "F405", "E402"]
+
+[tool.coverage.run]
+omit = ["apps/api/app/worker.py"]
